@@ -54,7 +54,9 @@ Project/
 │
 ├── app.py
 ├── requirements.txt
-└── README.md
+├── README.md
+└── images/
+
 ```
 
 ---
